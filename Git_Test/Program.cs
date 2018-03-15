@@ -10,7 +10,7 @@ namespace Git_Test
 	{
 		static void Main(string[] args)
 		{
-			int b = 2;
+			int b = 3;
 		}
 	}
 }
